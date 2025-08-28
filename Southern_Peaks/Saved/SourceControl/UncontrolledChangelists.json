@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Users/270328893/UE5-SP/Southern_Peaks/Content/Levels/Southern_Peaks.umap"
+				"D:/Users/270328893/UE5-SP/Southern_Peaks/Content/Levels/Southern_Peaks.umap",
+				"D:/Users/270328893/UE5-SP/Southern_Peaks/Content/Landscape/Southern_Peaks_Ridge/M_Landscape.uasset",
+				"D:/Users/270328893/UE5-SP/Southern_Peaks/Content/Landscape/Southern_Peaks_Ridge/MI_Landscape.uasset"
 			]
 		}
 	]
